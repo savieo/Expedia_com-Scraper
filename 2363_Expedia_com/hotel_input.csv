@@ -1,0 +1,119 @@
+property,ID,property_id,active_property,room_type,hotel_name,link,room_id,lastcheck
+1,7134,846,All American Inn and Suites,Family Suite,All American Inn Fam Suite,https://www.expedia.com/Branson-Hotels-All-American-Inn-And-Suites.h23829.Hotel-Information?regionId=6058734&rm1=a1&sort=recommended&vip=false&hotelname=american&&exp_dp=79.99&exp_ts=1522850886649&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,,
+,7010,846,All American Inn and Suites,King Jacuzzi,All American Inn K Jac,,,
+,7117,846,All American Inn and Suites,King Room,All American Inn King,,383227,
+,9806,846,All American Inn and Suites,Single Q,All American Inn Q Handi,,201105344,
+,7008,846,All American Inn and Suites,QQ Room,All American Inn QQ,,383226,TRUE
+2,10103,7543,America's Best Value Inn,DD Room,America’s Best Value Inn DD,https://www.expedia.com/Branson-Hotels-Americas-Best-Value-Inn-And-Suites-Branson.h4738577.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=americas+best&&exp_dp=38.66&exp_ts=1522850612145&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200384825,
+,10119,7543,America's Best Value Inn,Family Triple,America’s Best Value Inn Family (DDD),,200384828,
+,10120,7543,America's Best Value Inn,Family Suite,America’s Best Value Inn Family Suite,,200384814,
+,10104,7543,America's Best Value Inn,King Room,America’s Best Value Inn King,,200838328,
+,10102,7543,America's Best Value Inn,Single Q,America’s Best Value Inn Q,,200384819,TRUE
+3,7222,693,Barrington Hotel & Suites,King Jac,Barrington Inn King Jacuzzi,https://www.expedia.com/Branson-Hotels-Barrington-Hotel-Suites.h42236.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Barrington+Hotel+%26+Suites&&exp_dp=67&exp_ts=1522851067122&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,98306,
+,7221,693,Barrington Hotel & Suites,Single Q Handicap,Barrington Inn Q Handicap,,201904026,
+,7180,693,Barrington Hotel & Suites,QQ Room ,Barrington Inn QQ Room,,472201,TRUE
+4,7394,926,Baymont Inn & Suites,QQ Room ,Baymont Inn & Suites QQ,https://www.expedia.com/Branson-Hotels-Baymont-Inn-And-Suites-Branson-On-The-Strip.h15612.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Baymont+Inn+and+Suites+Branson+-+on+The+Strip&&exp_dp=63.99&exp_ts=1522851086199&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,440402,TRUE
+5,9673,1561,Branson Yellow Rose Inn and Suites,King Room,Branson Yellow Rose Inn King,https://www.expedia.com/Branson-Hotels-Branson-Yellow-Rose-Inn-And-Suites.h7858833.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Branson+Yellow+Rose+Inn+and+Suites&&exp_dp=69&exp_ts=1522851103479&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200643068,
+,9671,1561,Branson Yellow Rose Inn and Suites,QQ Room ,Branson Yellow Rose Inn QQ,,200643067,TRUE
+6,20071,652,Best Western Center Pointe Inn,QQ Room ,BW Center Pointe Inn QQ Dlx Interior,https://www.expedia.com/Branson-Hotels-Best-Western-Center-Pointe-Inn.h8236.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=best+western&&exp_dp=90.99&exp_ts=1522851122394&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200994831,TRUE
+7,7012,651,Best Western Music Capital Inn,QQ Dlx Room,BW Music Capital Inn QQ Dlx,https://www.expedia.com/Branson-Hotels-Best-Western-Music-Capital-Inn.h22104.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=best+western&&exp_dp=99.99&exp_ts=1522851122395&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200992507,TRUE
+8,4613,710,Carriage House Inn,King Jac,Carriage House Inn K Jacuzzi,https://www.expedia.com/Branson-Hotels-Carriage-House-Inn.h7923331.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Carriage+House+Inn&&exp_dp=54.99&exp_ts=1522851153627&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200665361,
+,4612,710,Carriage House Inn,King Room,Carriage House Inn King Room,,200665360,
+,4608,710,Carriage House Inn,QQ ,Carriage House Inn QQ,,200665358,TRUE
+9,7400,842,Castle Rock Resort & Waterpark,DD Room,Castle Rock Tower DD w/Bunkbeds (No Waterpark),https://www.expedia.com/Branson-Hotels-Castle-Rock-Resort-Waterpark.h2201802.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Castle+Rock+Resort+%26+Waterpark&&exp_dp=44.99&exp_ts=1522851169046&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,436946,
+,7269,842,Castle Rock Resort & Waterpark,DD Room,Castle Rock Tower DD w/Bunkbeds 1 Pass an Occupant,,200110047,
+,20091,842,Castle Rock Resort & Waterpark,Family Suite,Castle Rock Tower Family Suite - Waterpark,,200110045,
+,20090,842,Castle Rock Resort & Waterpark,Family Suite,Castle Rock Tower Family Suite (No Waterpark),,436948,TRUE
+10,7026,748,Chateau on the Lake,King Room,Chateau (Lkfrt) K (48 hr Can),https://www.expedia.com/Branson-Hotels-Chateau-On-The-Lake-Resort-Spa-And-Convention-Center.h58161.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Chateau+On+The+Lake+Resort+Spa+and+Convention+Center&&exp_dp=179&exp_ts=1522851219651&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,32639,
+,7029,748,Chateau on the Lake,King Suite,Chateau (Lkvw) K Amb  (48 hr Can),,104249,
+,7027,748,Chateau on the Lake,Amb Mtn DD,Chateau (Mtn) Amb QQ  (48 hr Can),,,
+,7022,748,Chateau on the Lake,QQ Room ,Chateau (Mtn) View QQ (48 hr Can),,200679649,
+,7024,748,Chateau on the Lake,Lake View QQ,Chateau QQ (Lkvw-Partial)  (48 hr Can),,359330,TRUE
+11,4254,662,Clarion Hotel,King Room,Clarion Hotel King Inside Rm,https://www.expedia.com/Branson-Hotels-Clarion-Hotel.h860090.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Clarion+Hotel&&exp_dp=96&exp_ts=1522851234612&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,174775,
+,7383,662,Clarion Hotel,QQ Room ,Clarion Hotel QQ Exterior Rm,,168308,
+,4250,662,Clarion Hotel,QQ Room ,Clarion Hotel QQ Inside Rm,,,TRUE
+12,9954,634,Classic Motor Inn,King Room,Classic Motor Inn King(Only 6rms),https://www.expedia.com/Branson-Hotels-Classic-Motor-Inn.h1161155.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=classic&&exp_dp=54.99&exp_ts=1522851351959&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200679493,
+,4130,634,Classic Motor Inn,QQ,Classic Motor Inn QQ,,200679473,TRUE
+13,7017,655,Comfort Inn & Suites,QQ Room ,Comfort Inn & Suites QQ ,https://www.expedia.com/Branson-Hotels-Comfort-Inn-Suites.h807270.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=comfort&&exp_dp=98.99&exp_ts=1522851368976&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,85893,TRUE
+14,7015,654,Comfort Inn Thousand Hills,QQ Dlx Room,Comfort Inn Thousand Hills QQ Dlx,https://www.expedia.com/Branson-Hotels-Comfort-Inn-At-Thousand-Hills.h8974.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=comfort&&exp_dp=109.99&exp_ts=1522851368975&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200103897,TRUE
+16,9885,647,Days Inn Shepherd of the Hills,King Jac,Days Inn SOH Jacuzzi,https://www.expedia.com/Branson-Hotels-Days-Inn-Branson-Near-The-Strip.h42183.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=days+inn&&exp_dp=48.95&exp_ts=1522851416639&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200248623,
+,9897,647,Days Inn Shepherd of the Hills,King Room,Days Inn SOH King Handi,,200248595,
+,9882,647,Days Inn Shepherd of the Hills,QQ Room,Days Inn SOH QQ,,200248588,
+,9884,647,Days Inn Shepherd of the Hills,QQ Room,Days Inn SOH QQ Handi,,200248611,TRUE
+17,4347,706,Dutton Inn,QQ ,Dutton Inn QQ,https://www.expedia.com/Branson-Hotels-Dutton-Inn.h6248947.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=dutton&&exp_dp=50.96&exp_ts=1522851438222&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200312102,TRUE
+18,10001,837,Fall Creek Inn & Suites,King Suite,Fall Creek Inn King Suite (Family),https://www.expedia.com/Branson-Hotels-Fall-Creek-Inn-Suites.h1142554.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=fall+creek&&exp_dp=45.46&exp_ts=1522851452940&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,101039,
+,9880,837,Fall Creek Inn & Suites,Master Suite,Fall Creek Inn Master Suite Kitchenette,,,
+,7619,837,Fall Creek Inn & Suites,Queen Jac,Fall Creek Inn Q Jacuzzi ,,460999,
+,7142,837,Fall Creek Inn & Suites,QQ Dlx Room,Fall Creek Inn QQ Dlx,,201473962,
+,7618,837,Fall Creek Inn & Suites,QQ Luxury,Fall Creek Inn QQ Lux,,201113961,
+,4360,837,Fall Creek Inn & Suites,QQ ,Fall Creek Inn Std. QQ (3rd Flr),,103061,TRUE
+19,9793,847,Gazebo Inn,Hnymn Ste,Gazebo Honeymoon Suite w/ Whirlpool Tub,https://www.expedia.com/Branson-Hotels-Gazebo-Inn.h1148267.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Gazebo+Inn&&exp_dp=54.4&exp_ts=1522851492598&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,50013,
+,4343,847,Gazebo Inn,Fam Suite,Gazebo Inn Family Suite,,,
+,4338,847,Gazebo Inn,King Room,Gazebo Inn King Room,,50007,
+,4341,847,Gazebo Inn,X LgJac,Gazebo Inn Q room Jacuzzi,,,
+,4337,847,Gazebo Inn,QQ ,Gazebo Inn QQ Room,,42704,TRUE
+20,4488,864,Grand Country Inn,QQ Room ,Grand Ctry Bldg 2 or 3 QQ,https://www.expedia.com/Branson-Hotels-Grand-Country-Waterpark-Resort.h4367719.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=grand+country&&exp_dp=100.46&exp_ts=1522851538381&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200068064,TRUE
+21,4148,711,Grand Plaza Hotel,Fam Unit,Grand Plaza Family Unit,https://www.expedia.com/Branson-Hotels-Grand-Plaza-Hotel-Branson.h27716.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&hwrqCacheKey=2138b0df-e1a9-4e9c-afef-ee012fbd5bc6HWRQ1522851665215&vip=false&hotelname=grand+plaza&&exp_dp=79&exp_ts=1522851559510&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,201419230,
+,4149,711,Grand Plaza Hotel,Hnymn Ste,Grand Plaza Honeymoon Suite,,,
+,4147,711,Grand Plaza Hotel,King Feature,Grand Plaza King Feature Jac,,177666,
+,4146,711,Grand Plaza Hotel,King Mini Ste,Grand Plaza King Mini Suite No Jac,,177669,
+,4150,711,Grand Plaza Hotel,QQ Room ,Grand Plaza QQ,,177659,TRUE
+22,9909,2873,Grand View Inn and Suites,King Room,Grand View Inn & Suites King,https://www.expedia.com/Branson-Hotels-Grand-View-Inn-And-Suites.h425172.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=grand+view&&exp_dp=63.33&exp_ts=1522851580690&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200309970,
+,9908,2873,Grand View Inn and Suites,QQ Room,Grand View Inn & Suites QQ,,200624192,TRUE
+23,9959,709,Hampton by Hilton on the Strip,QQ Room ,Hampton by Hilton 76 QQ,https://www.expedia.com/Branson-Hotels-Hampton-Inn-By-Hilton-Branson-On-The-Strip.h14924.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=hampton&&exp_dp=109&exp_ts=1522851663939&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,416004,TRUE
+24,7291,884,Hampton Inn Branson Hills,King Room,Hampton Inn Branson Hills King,https://www.expedia.com/Branson-Hotels-Hampton-Inn-Branson-Branson-Hills.h2602840.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=hampton&&exp_dp=99&exp_ts=1522851663939&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,201129586,
+,7290,884,Hampton Inn Branson Hills,QQ Room ,Hampton Inn Branson Hills QQ,,201129591,TRUE
+25,7550,850,Hilton Convention Center Hotel,King Dlx,Hilton CV K Dlx w/Sofabed,https://www.expedia.com/Branson-Hotels-Hilton-Branson-Convention-Center.h1717387.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=hilton&&exp_dp=146.88&exp_ts=1522851694209&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,195738,
+,9980,850,Hilton Convention Center Hotel,King Condo,Hilton CV King Condo,,194129,
+,7551,850,Hilton Convention Center Hotel,QQ Dlx,Hilton CV QQ Dlx,,201123648,TRUE
+26,9907,849,Hilton Promenade Hotel,King Condo,Hilton PR K 1Bdrm Condo,https://www.expedia.com/Branson-Hotels-Hilton-Promenade-At-Branson-Landing.h1497923.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=hilton&&exp_dp=146.88&exp_ts=1522851694208&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200266495,
+,7548,849,Hilton Promenade Hotel,King Dlx,Hilton PR King Dlx,,229439,
+,9981,849,Hilton Promenade Hotel,QQ Dlx,Hilton PR QQ Dlx Room,,201120913,
+,10165,849,Hilton Promenade Hotel,QQ Dlx,Hilton PR QQ Superior (w/Balcony),,169205,TRUE
+27,7547,967,Holiday Inn Express Green Mountain,QQ,Holiday Inn Expr Grn Mt Dr QQ,https://www.expedia.com/Branson-Hotels-Holiday-Inn-Express-Branson-Green-Mountain-Drive.h2902.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=holiday+inn&&exp_dp=109.99&exp_ts=1522851745026&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,246786,TRUE
+28,7102,762,Honeysuckle Inn and Conference Center,Comfort King,Honeysuckle Comfort King,https://www.expedia.com/Branson-Hotels-Honeysuckle-Inn-Conference-Center.h41028.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=honeysuckle&&exp_dp=59.38&exp_ts=1522851763582&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,158312,
+,10168,762,Honeysuckle Inn and Conference Center,King Combo,Honeysuckle Comfort King Combo,,201481576,
+,10167,762,Honeysuckle Inn and Conference Center,King Combo,Honeysuckle King Combo,,201481573,
+,7103,762,Honeysuckle Inn and Conference Center,King Room,Honeysuckle King Room,,30707,
+,4624,762,Honeysuckle Inn and Conference Center,QQ ,Honeysuckle QQ,,30706,
+,10166,762,Honeysuckle Inn and Conference Center,QQ Combo,Honeysuckle QQ Combo,,201481574,
+,9924,762,Honeysuckle Inn and Conference Center,QQ Handicap,Honeysuckle QQ Handicap,,,
+,7104,762,Honeysuckle Inn and Conference Center,Queen Jac,Honeysuckle Queen Jacuzzi,,97232,TRUE
+29,9805,632,Hotel Grand Victorian,QQ,Hotel Grand Victorian QQ,https://www.expedia.com/Branson-Hotels-Hotel-Grand-Victorian.h26675.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Hotel+Grand+Victorian&&exp_dp=84.96&exp_ts=1522852246524&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,54425,TRUE
+30,20088,724,Lodge of the Ozarks,King Room,Lodge of the Ozarks K w/ Jetted Tub,https://www.expedia.com/Branson-Hotels-Lodge-Of-The-Ozarks.h1885263.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Lodge+Of+The+Ozarks&&exp_dp=86.95&exp_ts=1522852279575&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,201891390,
+,20092,724,Lodge of the Ozarks,King Room,Lodge of the Ozarks King,,202480113,
+,20086,724,Lodge of the Ozarks,QQ Room ,Lodge of the Ozarks QQ,,201891391,
+,20087,724,Lodge of the Ozarks,QQ Room ,Lodge of the Ozarks QQ w/ Jetted Tub,,201980645,TRUE
+31,7302,812,Lynina Inn,King Jac,Lynina Inn K Jacuzzi,https://www.expedia.com/Branson-Hotels-Lynina-Inn.h5140794.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Lynina+Inn&&exp_dp=75.95&exp_ts=1522852296964&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,201056648,
+,4543,812,Lynina Inn,King Room,Lynina Inn King,,,
+,4539,812,Lynina Inn,QQ ,Lynina Inn QQ,,200176481,TRUE
+32,9928,839,Ozark Valley Inn,Family Suite,Ozark Valley Inn Family Suite,https://www.expedia.com/Branson-Hotels-Ozark-Valley-Inn.h3561442.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Ozark+Valley+Inn&&exp_dp=42.43&exp_ts=1522852321146&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200360205,
+,9848,839,Ozark Valley Inn,King Jac,Ozark Valley Inn K Jacuzzi,,,
+,10163,839,Ozark Valley Inn,QQ Room ,Ozark Valley Inn King (w/ Recliner or Sofa),,200360201,
+,9963,839,Ozark Valley Inn,King Room,Ozark Valley King (2nd Floor),,200684332,
+,9962,839,Ozark Valley Inn,QQ Room ,Ozark Valley QQ (2nd Floor),,200360117,TRUE
+33,20072,9423,Quality Inn West,QQ Room ,Quality Inn West QQ,https://www.expedia.com/Branson-Hotels-Quality-Inn-West.h6817.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=quality+inn&&exp_dp=84.99&exp_ts=1522852549174&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,200042794,TRUE
+34,7228,848,Residence Inn Marriott,1 Bd,Residence Inn 1bd,https://www.expedia.com/Branson-Hotels-Residence-Inn-By-Marriott-Branson.h403.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Residence+Inn+by+Marriott+Branson&&exp_dp=119&exp_ts=1522852604047&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,140544,
+,7225,848,Residence Inn Marriott,Studio,Residence Inn Studio,,140546,TRUE
+35,10151,650,Scenic Hills Inn,King Room,Scenic Hills Inn King ,https://www.expedia.com/Branson-Hotels-Scenic-Hills-Inn.h1695571.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Scenic+Hills+Inn&&exp_dp=51.34&exp_ts=1522852628507&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,,
+,4314,650,Scenic Hills Inn,King Room,Scenic Hills Inn King Handicap,,,
+,7201,650,Scenic Hills Inn,King Jac,Scenic Hills Inn King Jacuzzi,,,
+,7202,650,Scenic Hills Inn,Leisure Suite,Scenic Hills Inn King w/Recliner or Sofa,,200360153,
+,4311,650,Scenic Hills Inn,QQ Room ,Scenic Hills Inn QQ,,200360136,TRUE
+36,4328,787,Still Waters Resort,1 Bd 1600,Still Waters 1Bd 1600 Kg,https://www.expedia.com/Branson-Hotels-Still-Waters-Resort.h425339.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Still+Waters+Resort&,,
+,4326,787,Still Waters Resort,1 Bd 1700,Still Waters 1Bd 1700 Kg,,,
+,4329,787,Still Waters Resort,2 Bd 2000  ,Still Waters 2Bd 2000 1K/2Q,,,
+,4334,787,Still Waters Resort,2 Bedrm 2500,Still Waters 2Bd 2500 1K/2Q LkFt,,,
+,4336,787,Still Waters Resort,3 Bedrm 3600,Still Waters 3Bd 3600 1K4Q,,,
+,4324,787,Still Waters Resort,QQ 050,Still Waters Motel 50 QQ,,,TRUE
+37,9952,782,Stone Castle Hotel,Family Suite,Stone Castle Hotel 1K/2Q Family Suite,https://www.expedia.com/Branson-Hotels-The-Stone-Castle-Hotel-Conference-Center.h120196.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=stone+castle&&exp_dp=63.2&exp_ts=1522852692372&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,,
+,9670,782,Stone Castle Hotel,King Room,Stone Castle Hotel K,,200039425,
+,10014,782,Stone Castle Hotel,Single Q,Stone Castle Hotel Q,,377238,
+,7409,782,Stone Castle Hotel,Single Q,Stone Castle Hotel Q Handi,,,
+,4391,782,Stone Castle Hotel,QQ ,Stone Castle Hotel QQ,,49804,
+,4392,782,Stone Castle Hotel,King Jac Room,Stone Castle Jacuzzi Themed King Room,,440168,
+,7074,782,Stone Castle Hotel,King Jac Suite,Stone Castle K Jacuzzi  Themed Suite,,,TRUE
+38,10011,883,Welk Resort,QQ ,Welk QQ + Brkfst (2Ad) No Splash,https://www.expedia.com/Branson-Hotels-Welk-Resorts-Branson-Hotel.h22730.Hotel-Information?rm1=a1&regionId=6058734&sort=recommended&vip=false&hotelname=Welk+Resorts+Branson+Hotel&&exp_dp=59&exp_ts=1522852712020&exp_curr=USD&swpToggleOn=false&exp_pg=HSR,177854,
+,10201,883,Welk Resort,QQ ,Welk QQ + Brkfst (2Ad) w/ Splash,,32574,
+,7458,883,Welk Resort,QQ ,Welk Resort QQ w Splash,,,
+,10000,883,Welk Resort,QQ ,Welk Resort QQ w/out Splash,,,TRUE

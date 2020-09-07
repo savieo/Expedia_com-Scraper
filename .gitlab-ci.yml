@@ -1,0 +1,19 @@
+stages:
+  - test
+  - deploy
+
+test:
+  image: dragline
+  stage: test
+  script:
+    - flake8 --select=T003,E999
+  tags:
+   - spider
+
+production:
+  stage : deploy
+  type: deploy
+  script:
+  - python setup.py bdist_wheel --universal upload -r local
+  tags: 
+   - pip
